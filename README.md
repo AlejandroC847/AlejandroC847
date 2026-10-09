@@ -1,50 +1,42 @@
-# ¡Hola, soy Alejandro Cortés (Alex)! 👋
+# ¡Hola, soy Alejandro Cortés! 👋
 
-Soy un **estudiante independiente de Ingeniería Informática** con una pasión por el software en todas sus formas. Aunque me gusta explorar un poco de todo, últimamente me he centrado en el fascinante mundo del **desarrollo de videojuegos, programas y aplicaciones**. Mi objetivo es crear soluciones ingeniosas y creativas que no solo sean funcionales, sino que también puedan expresar emociones o comunicar mensajes significativos.
+Soy un **estudiante de Ingeniería en Computación** con una gran pasión por el software y la resolución de problemas lógicos. Actualmente estoy orientando mi enfoque profesional hacia el **desarrollo full-stack** y la **Inteligencia Artificial / Ciencia de Datos**.
+
+Me encanta entender cómo funcionan las cosas desde las bases, y disfruto construyendo soluciones funcionales, eficientes y bien estructuradas.
+
+---
+
+## 💻 Stack Tecnológico y Habilidades
+
+- **Lenguajes Principales:**
+  - **Python:** Mi lenguaje de cabecera para scripting, automatización, lógica y aproximación a la IA.
+  - **JavaScript / HTML:** Expandiendo mi stack hacia el desarrollo web full-stack.
+- **Bases y Repaso:**
+  - **C / C++:** Enfoque actual en fundamentos (manejo básico).
+- **Herramientas & Entornos:**
+  - **VS Code** como entorno de desarrollo principal.
+  - **Docker** (retomando herramientas de contenedores e infraestructura).
+  - **Git/Github** como control de versiones y portafolio.
+  - Experiencia previa con entornos Linux.
+- **Hobbies & Intereses Creativos:**
+  - Desarrollo de videojuegos independientes (Godot / GDScript como pasatiempo).
+  - Diseño gráfico ocasional enfocado en interfaces web o assets visuales (Aseprite / Illustrator).
 
 ---
 
-### 💻 Mis Habilidades e Intereses
+## 🚀 ¿En qué estoy trabajando ahora?
 
-A pesar de ser estudiante, me gusta trabajar con diferentes tecnologías y lenguajes. Me siento cómodo trabajando con:
-
-* **Python:** Versátil para scripting, automatización y desarrollo general.
-* **C++:** Interesado en su rendimiento para sistemas y juegos.
-* **GDScript:** Mi lenguaje de elección para el desarrollo de juegos en Godot Engine.
-* **Markdown:** Con experiencia en la creación de documentación clara y estructurada.
-
-Actualmente estoy expandiendo mis conocimientos con **HTML**, **JavaScript** y **Java**.
-
-Mis intereses van más allá del código; busco proyectos donde la **creatividad y el ingenio** se unan para dar vida a ideas con un propósito. Me apasiona la idea de desarrollar videojuegos con significado y aplicaciones que sirvan como herramientas de expresión.
-
----
-```
-### ✨ Proyectos Destacados
-
-Estos son algunos de los proyectos en los que he estado trabajando y que reflejan mis intereses:
-
-* **[Calculadora v1](PENDIENTE COLOCAR ENLACE)**: Mi primera incursión en el desarrollo de aplicaciones. Una calculadora funcional que maneja operaciones básicas con precisión
-* **[FruitDrop](PENDIENTE COLOCAR ENLACE)**: Un juego divertido de mascota virtual con minijuegos al puro estilo de Pou
-* **[App CAA](PENDIENTE COLOCAR ENLACE)**: (Actualmente en desarrollo) Una aplicación enfocada en la **Comunicación Aumentativa y Alternativa**, diseñada para facilitar la expresión a personas con dificultades de comunicación.
-
-*(**¡Importante!** No olvides reemplazar los `[Tu-enlace-al-repositorio-de-la-calculadora]`, `[Tu-enlace-al-repositorio-de-FruitDrop]` y `[Tu-enlace-al-repositorio-de-la-app-CAA]` con los **enlaces reales a tus repositorios** en GitHub cuando los tengas públicos.)*
-
----
-```
-### 🚀 ¿Qué sigue?
-
-Siempre estoy en búsqueda de nuevos conocimientos y desafíos para aplicar lo que aprendo. ¡Me emociona seguir construyendo y aportando al mundo del software! Busco aprender cada vez más tecnologias y lenguajes.
+- Fortaleciendo mis bases lógicas y algorítmicas mediante la resolución constante de retos de código.
+- Profundizando en tecnologías web y preparando el terreno para proyectos de Ciencia de Datos y Machine Learning.
+- Diseñando y estructurando futuros proyectos full-stack para el portafolio.
 
 ---
 
 ### 🤝 Conéctate Conmigo
 
-Actualmente no tengo enlaces externos, ¡pero estoy abierto a conectar aquí en GitHub! Puedes revisar mis repositorios para ver mi progreso y mi trabajo.
+- [**Visita mi GitHub**](https://github.com/AlejandroC847) para revisar mis proyectos y trabajos actuales.
+- [**Envía un correo**](mailto:alecmail@duck.com) para comunicarte conmigo.
 
 ---
 
-### 💡 Una frase para reflexionar:
-
-> "El código es como la poesía; cada línea cuenta una historia y cada error es una lección."
-
----
+"Siempre en constante aprendizaje, busco transformar ideas complejas en código limpio y funcional. ¡Gracias por pasarte por mi perfil!"
