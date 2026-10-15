@@ -39,4 +39,4 @@ Me encanta entender cómo funcionan las cosas desde las bases, y disfruto constr
 
 ---
 
-"Siempre en constante aprendizaje, busco transformar ideas complejas en código limpio y funcional. ¡Gracias por pasarte por mi perfil!"
+Siempre en constante aprendizaje, busco transformar ideas complejas en código limpio y funcional. ¡Gracias por pasarte por mi perfil!
